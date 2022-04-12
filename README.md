@@ -2,7 +2,15 @@
 
 Welcome to my Github Pages site! As of right now, my main intention for with this GitHub Account is to work on the projects/assignments given to me during my time in Waterford Institute of Technology (WIT). As of right now, I am finishing up my 2nd year and working on my last few assignments and tests.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below I will list a couple of programming languages I have some experience with:
+
+- Java
+- Kotlin
+- Javascript
+- HTML
+- CSS
+- SQL
+
 
 ### Markdown
 
