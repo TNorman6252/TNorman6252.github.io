@@ -16,7 +16,7 @@ Below I will list a couple of programming languages I have some experience with:
 
 
 
-Some of the projects I have made in my freetime include:
+<u>Some of the projects I have made in my freetime include:</u>
 
 1. Banking Application with 'MD5#' encryption. While I am aware that using this encryption algorithim is considered to be dangerous due to it's vulnerabilities, I used it to learn about the 'java.security' package in the Java programming language. It also taught me about using a 'salt' to add extra ciphertext to an individuals banking details to assure that a hacker or any other bad actor cannot easily infiltrate sensitive information.
 
