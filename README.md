@@ -1,6 +1,6 @@
 ## Tristan Norman - (SSD Student)
 
-##Welcome to my Github Pages site!
+## Welcome to my Github Pages site!
 
 As of right now, my main intention with this GitHub Account is to work on the projects/assignments given to me during my time in Waterford Institute of Technology (WIT). As of right now, I am finishing up my 2nd year and working on my remaining few assignments and tests.
 
@@ -19,6 +19,8 @@ Below I will list a couple of programming languages I have some experience with:
 Some of the projects I have made in my freetime include:
 
 1. Banking Application with 'MD5#' encryption. While I am aware that using this encryption algorithim is considered to be dangerous due to it's vulnerabilities, I used it to learn about the 'java.security' package in the Java programming language. It also taught me about using a 'salt' to add extra ciphertext to an individuals banking details to assure that a hacker or any other bad actor cannot easily infiltrate sensitive information.
+
+2. 
 
 
 ### Markdown
