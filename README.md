@@ -16,7 +16,7 @@ As of right now, my main intention with this GitHub Account is to work on the pr
 
 
 
-<u>Some of the projects I have made in my freetime include:</u>
+</u>Some of the projects I have made in my freetime include:</u>
 
 1.**Banking Application** <br>
  Made with 'MD5#' encryption. While I am aware that using this encryption algorithim is considered to be dangerous due to it's vulnerabilities, I used it to learn about the 'java.security' package in the Java programming language. It also taught me about using a 'salt' to add extra ciphertext to an individuals banking details to assure that a hacker or any other bad actor cannot easily infiltrate sensitive information.
@@ -26,4 +26,10 @@ Making minigames like these has taught me a lot about keeping track of user inpu
 
 **Calendar Program** <br>
 An interesting program that I made last year was a calendar program. It uses a few of Java's built-in classes and packages to retrieve the current date and time. However, I had to use a class called 'SimpleDateFormatter' to go with it in order to make the appearance of the date and time look normal for the typical user. I used JavaFX with a JFrame so that the user could see what the date and time were in a graphical user interface (GUI). An important detail I added was that the time updated every second live onscreen; I did this by using a 'while loop' and constantly retrieving the date and time all while updating the JLabels, etc... This particular project taught me a great deal about the use of loops and UI presentation.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Current Project I am working on:** Quiz Application <br>
+I'm working on this console application as my final project/assignment for Year 2 in the Mobile App Dev module. It features CRUD and a slew of other "nice to have" and other essential features. Currently, the project is a work in progress but it's slowly coming along and is a fun experience where I can learn new things and develop my problem solving skills - which is a key attribute to have as a developer.
+
 
