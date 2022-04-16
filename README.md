@@ -32,4 +32,7 @@ An interesting program that I made last year was a calendar program. It uses a f
 **Current Project I am working on:** Quiz Application <br>
 I'm working on this console application as my final project/assignment for Year 2 in the Mobile App Dev module. It features CRUD and a slew of other "nice to have" and other essential features. Currently, the project is a work in progress but it's slowly coming along and is a fun experience where I can learn new things and develop my problem solving skills - which is a key attribute to have as a developer.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Goals for this year:** <br>
+My main priorities for this year is to build many more projects over the summer in a variety of different programming languages so that I will have developed a deeper understanding of programming and learned new technologies/frameworks along the way. I am a firm believer in the idea of building from what you know and researching what you don't with either books or the internet. I also have planned to display all the project/assignment work I've done throughout this current semester (4) on my personal GitHub account along with uploading a few of my own personal projects as a demo/reference to my work for future employment.
